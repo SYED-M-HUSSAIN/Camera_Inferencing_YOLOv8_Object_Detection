@@ -19,7 +19,7 @@ pip install supervision
 ## Getting Started
 Clone the repository:
 ```bash
-https://github.com/SYED-M-HUSSAIN/YOLOv8-Object-Detection-with-OpenCV-and-Ultralytics
+git clone https://github.com/SYED-M-HUSSAIN/YOLOv8-Object-Detection-with-OpenCV-and-Ultralytics
 ```
 ## Usage
 Run the script:
@@ -35,4 +35,4 @@ python yolo_inference.py
 
 ## Customization
 
-You can customize the camera index, model path, and annotation parameters according to your needs.
+    You can customize the camera index, model path, and annotation parameters according to your needs.
