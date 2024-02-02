@@ -19,12 +19,12 @@ pip install supervision
 ## Getting Started
 Clone the repository:
 ```bash
-
+https://github.com/SYED-M-HUSSAIN/YOLOv8-Object-Detection-with-OpenCV-and-Ultralytics
 ```
 ## Usage
 Run the script:
 ```bash
-
+python yolo_inference.py
 ```
 ## Configuration
 
