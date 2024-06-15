@@ -12,7 +12,7 @@ Make sure you have the following libraries installed:
 ```bash
 pip install opencv-python
 pip install ultralytics
-pip install supervision
+pip install supervision==0.3.0
 ```
 
 
